@@ -1,6 +1,6 @@
 # Syntactic-Tree-Generation-Pipeline-using-NLTK-on-GitHub
 
-**Assignment 2: Syntactic Tree Generation Pipeline using NLTK on GitHub**
+**NLP Assignment 2: Syntactic Tree Generation Pipeline using NLTK on GitHub**
 
 ### Overview
 
@@ -56,11 +56,11 @@ This assignment involves developing a pipeline for generating syntactic trees fr
 
 ### GitHub Repository
 
-The code for this pipeline is hosted on GitHub: [Syntactic-Tree-Generator](https://github.com/yourusername/Syntactic-Tree-Generator)
+The code for this pipeline is hosted on GitHub: [Syntactic-Tree-Generator](https://github.com/gulshankumar409/Syntactic-Tree-Generation-Pipeline-using-NLTK-on-GitHub)
 
 ### Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/Syntactic-Tree-Generator.git`
+1. Clone the repository: `git clone https://github.com/gulshankumar409/Syntactic-Tree-Generator.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the pipeline: `python syntactic_tree_generator.py input_text.txt`
 
@@ -70,6 +70,6 @@ Contributors are welcome to improve the pipeline, add support for additional lan
 
 ### Acknowledgments
 
-Give credit to any external tools, libraries, or grammars used in the development of the pipeline.
+Thanks to all external tools, libraries, or grammars used in the development of the pipeline.
 
 Feel free to customize the above template based on the specifics of your implementation and preferences.
